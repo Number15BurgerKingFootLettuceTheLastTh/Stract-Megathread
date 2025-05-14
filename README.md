@@ -1,2 +1,3 @@
 # Stract-Megathread
-A stract optic specifically made for piracy
+A stract optic specifically made for piracy, currently at the moment I will plan out how I will make this as I am not really a programmer mainly but the idea is so you can enter the optic into Stract and start pirating.\
+The main idea is to create optics for different megathreads, maybe seperate optic files for sections of them? All unified in one big folder, i.e. piratedgames for r/piratedgames, fmhy for fmhy and they would have. Maybe I should incorporate some form of subfolders of sections, i.e. if a section has "goat tiers" these have there own optic file, then there would be the other recommended sites, and then there would be untrustworthy sites if the user was THAT desperate
