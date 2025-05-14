@@ -1,0 +1,35 @@
+Rule {
+      Matches {
+                  Title("Fitgirl"),
+                  Domain("https://1337x.to/user/FitGirl/")
+      },
+Rule {
+      Matches {
+                  Title("anadius"),
+                  Domain("https://1337x.to/user/anadius/")
+      },
+Rule {
+      Matches {
+                  Title("DODI"),
+                  Domain("https://1337x.to/user/DODI/),
+      },
+Rule {
+      Matches {
+                  Title("johncena141"),
+                  Url("https://1337x.to/user/johncena141/"),
+      },
+Rule {
+      Matches {
+                  Title("kaoskrew")
+                  Url("https://1337x.to/user/KaOsKrew/"),
+      },
+      Matches {
+                  Title("s7on3r")
+                  Url("https://1337x.to/user/s7on3r/")
+      },
+      Matches {
+                  Title("tinyrepacks")
+                  Url(https://1337x.to/user/tinyrepacks/
+      },
+      Action(Boost(0))
+};
